@@ -1,118 +1,182 @@
- # QUEEN_ANITA-V2
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ QUEEN_+ANITA-+V2★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DAVID+CYRIL;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ ALPHA-+MD-★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+BRUCE+BERA;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
-<img src="https://telegra.ph/file/a22200a780671e0e32383.jpg"/> 
-<p align="center"><img src="https://profile-counter.glitch.me/{DeeCeeXxx}/count.svg" alt="DeeCeeXxx :: Visitor's Count" /></p>
-<p align="center">
-<a href="https://github.com/DeeCeeXxx/followers"><img title="Followers" src="https://img.shields.io/github/followers/DeeCeeXxx?color=red&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx/Queen_Anita-V2?color=blue&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DeeCeeXxx/Queen_Anita-V2?color=red&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DeeCeeXxx/Queen_Anita-V2?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/DeeCeeXxx/Queen_Anita-V2?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeeCeeXxx%2FQueen_Anita-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-V2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a> <a>
+<h1 align="center">ALPHA-MD</center></h1>
+<p align="center">  
+  <a href="https://t.me/Tha_Healer">
+    <img alt="X-2.0" height="300" src="https://i.ibb.co/BNdbNrc/ALPHA-MD.jpg">
+    <h1 align="center">ALPHA-MD</h1>
+    <h4 align="center">Major Update available.</h4>
+    <h3 align="center">Bug Menu</h3>
+    <h3 align="center">menutype command, 5 Menu types</h3>
+    <h3 align="center">Added Jid/getjid command</h3>
+       <h3 align="center">Added Different menu(Core menu,all menu ...)</h3>
+  </a>
+</p>
+<a href="https://github.com/berabotsmd/followers"><img title="Followers" src="https://img.shields.io/github/followers/berabotsmd?color=red&style=flat-square"></a>
+<a href="https://github.com/berabotsmd/ALPHA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/berabotsmd/ALPHA-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/berabotsmd/ALPHA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/berabotsmd/ALPHA-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/berabotsmd/ALPHA-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/berabotsmd/ALPHA-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/berabotsmd/ALPHA-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/berabotsmd/ALPHA-MD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fberabotsmd%2FALPHA-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/berabotsmd/ALPHA-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
 
- ## QUEEN_ANITA-V2 Deployment Methods
+#### Notice
+If you create a clone of my bot then Don't forget to give ***Credit*** 
 
-### 1. FORK THIS REPO
+***
 
-<a href='https://github.com/DeeCeeXxx/Queen_Anita-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+#### SETUP
 
-### 2. GET SESSION ID HERE
+1. Fork the repo
+    <br>
+<a href="https://github.com/berabotsmd/ALPHA-MD/fork"><img title="ALPHA-MD" src="https://img.shields.io/badge/FORK_ALPHA-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
-### SERVER 1
+2. Scan or pair to get session ID
+    <br>
+<a href='https://taira-web-service.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+
+#### DEPLOY STEPS
+
+1. Fork This Repository 
+2. Update [`config.js`] if you want more functions or skip
+```js
+global.Owner = ["254743982206"]; 
+global.OwnerName = "BRUCE BERA";
+global.BotName = "♱ALPHA-MD♱♡⃤";
+```
+3. edit sessionDir/creds.json and put your session ID,it must end with AAAAA or bot will not work.
+#### DEPLOY TO HEROKU 
+
+1. If You don't have a account in Heroku. Create a account.
+    <br>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+2. Now Deploy
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/berabotsmd/ALPHA-MD' target="_blank"><img alt='DEPLOY Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+
+#### DEPLOY TO CODESPACE
+
+3. If You don't have a account in Codespace. Create a account.
+    <br>
+<a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+
+4. Now Deploy
+    <br>
+<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+
+
+#### DEPLOY TO RAILWAY
+
+7. If You don't have a account in Railway. Create a account.
+    <br>
+<a href='https://railway.app/login' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
+
+8. Now Deploy
+    <br>
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
+
+#### DEPLOY TO MONGENIUS
+
+9. If You don't have a account in Mongenius. Create a account.
+    <br>
+<a href='https://app.mogenius.com/user/registration' target="_blank"><img alt='Mongenius' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
+
+10. Now Deploy
+    <br>
+<a href='https://app.mogenius.com/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
+
+#### DEPLOY TO COOLIFY
+
+11. If You don't have a account in Coolify. Create a account.
+    <br>
+<a href='https://app.coolify.io/register' target="_blank"><img alt='Coolify' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
+
+12. Now Deploy
+    <br>
+<a href='https://coolify.io/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
+
+#### DEPLOY TO RENDER
+
+13. If You don't have a account in Render. Create a account.
+    <br>
+<a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
+
+14. Now Deploy
+    <br>
+<a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
+
+---
+# `Guide`📕
+
+- [Full Deploy Explanation & Termux Deploy & Vps Deploy](https://github.com/berabotsmd/ALPHA-MD/blob/main/guide.md)
+---
+
+## ```Support Me```
+<a href='https://www.instagram.com/call.me.bera' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=instagram' width="96.35" height="28"/></a></p>
+<a href='https://t.me/Alphatrex' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=Telegram' width="96.35" height="28"/></a></p>
+<a href='https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+<a href='https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-Channel-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+<a href='https://www.youtube.com' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/SUBSCRIBE-h?color=black&style=for-the-badge&logo=youtube' width="96.35" height="28"/></a></p>
+</p>
+
+1. **Buy Me a Coffee**: Your support will help me stay motivated and continue working on exciting projects like this one.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com">
+  <img src="https://i.ibb.co/BNdbNrc/ALPHA-MD.jpg" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
+</a>
+
+<h2 align="center"> Please don't forget to Star the repo and follow me 🌟
+</h2>
+
+
  
-<a href="https://anita-server-1.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
-
-<a href="https://anita-server-1.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
-
-### SERVER 2 
-### GET SESSION ID HERE
-
-<a href="https://queen-anita-server-2.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR CODE-red" alt="Click Here to Get Pair-Code" width="110"></a>   
-
-<a href="https://queen-anita-server-2.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-blue" alt="Click Here to Get QR-Code" width="90"></a>
-### **PLEASE PICK RANDOMLY DON'T SPAM A PARTICULAR SERVER**
-
-
-### DEPLOY ON RENDER
-
-1. If you don't have an account in RENDER, create one and deploy.
-    <br>
-    <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
-## Watch Tutorial videos.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/PFYaqnuFKi8?si=clmY9NehWGACP1AM)
-
-
-### DEPLOY ON CLEVER CLOUD
-
-1. If you don't have an account in Clever Cloud, create one and deploy.
-    <br>
-    <a href='https://api.clever-cloud.com/v2/sessions/signup?subscription_source=cta-home-signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=clever-cloud&logoColor=white'/></a>
-
-### DEPLOY ON HEROKU
-
-1. If you don't have an account in Heroku, create one.
-    <br>
-    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-2. Now deploy.
-    <br>
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/DeeCeeXxx/Queen_Anita-V2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-### DEPLOY ON REPLIT
-1. Deploy.
-    <br>
-    <a href='https://replit.com/github/Deeceexxx/Queen_Anita-V2' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
-### DEPLOY ON RAILWAY
-1. Deploy.
-    <br>
-    <a href='https://railway.com/github/Deeceexxx/Queen_Anita-V2' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
-
-    <h2 align="center"> ⚠️ NOTE  </h2>
-## QUEEN_ANITA-V2 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
-
-## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
- <br> 
-<p align="center">
-<a href="https://wa.me/2349066528353"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://t.me/deecee_x"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
-<p align="center">
-<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-# 
-
-<br>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-* [🧑‍💻 Follow Queen_Anita-V2 Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L)
-
-* [🧑‍💻 Join Queen_Anita-V2 Telegram Group 🧑‍💻](https://t.me/dctech)
-
-* [✅ Join Public Group ⚡](https://chat.whatsapp.com/KLu7a2r4bc4JFV8s5epvsF)
-
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ ## 🎯 Authors 🎯
+  <div align="center">
   
+| [![BRUCE BERA](https://github.com/berabotsmd.png?size=150)](https://github.com/berabotsmd) |
+|----|
+| [  BRUCE BERA](https://github.com/berabotsmd) |
+|  Developer |
 
-- *Queen_Anita-V2 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, I'm not responsible for banning your account.*
-- *Use Queen_Anita-V2 at your own risk by keeping this warning in mind.*
+  </div>
   
-  #### ```DAVID CYRIL PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
+   
+  </br> 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h2 align="center">  Reminder
+</h2>
+   
+- This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
+- I am not responsible for banning your account.
+- Use at your own risk by keeping this warning in mind.
+ 
+  
+  
+   ## `Special Thanks To`
 
-## Community and Support
+* [`📕 Kai..!!`](https://github.com/Kai0071)
+* [`📕 Guru`](https://github.com/Guru322)
+* [`📕 V.e.n.o.x`](https://github.com/V-E-N-O-X )
+---------
 
-FOLLOW DAVID CYRIL WHAtSAPP CHANNEL FOR MORE UPDATES
-[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L))
 
+<h1 align="center">
+</h1>
+
+</p>
+<h1 align="center"> ✧Base By Kai0071.✧
+</h1>
+
+---
+
+
+  
